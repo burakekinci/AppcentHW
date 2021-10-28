@@ -5,5 +5,6 @@ Konum bilgisine göre yakındaki şehirleri ve hava durumunu gösteren bir mobil
 kullanılan kütüphaneler:
 
 -Retrofit2
+
 -Picasso
 
