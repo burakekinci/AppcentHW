@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppcentHW</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="bugun">Bugün</string>
+    <string name="yarin">Yarın</string>
+    <string name="sehirler">Şehirler</string>
+    <string name="ana_sayfa">Ana Sayfa</string>
+</resources>
